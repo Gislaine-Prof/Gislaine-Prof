@@ -1,4 +1,12 @@
-## Hi there 👋
+## Seja Bem Vindo Ao meu perfil 👩‍🏫
+_Sou Gislaine Sacrameto_ 
+## Professora de Ciências Biologias desbravando o mundo da programação!
+- Oriento a utilização da plataforma Alura na disciplina de Tecnologia na rede pública do estado de São Paulo
+- Utiizo esse espaço para compartilhar meus projetos
+- Auxiliar meus alunos a desenvolver seus projetos.
+
+![image](https://github.com/user-attachments/assets/939bf939-51a9-4c5b-a912-6a74fe515639)
+
 
 <!--
 **Gislaine-Prof/Gislaine-Prof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
